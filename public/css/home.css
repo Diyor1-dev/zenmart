@@ -252,7 +252,7 @@
   flex-direction: column;
 }
 
-.continer .cotegory_top{
+.shop_cotegory_frame .continer .cotegory_top{
   width: 100%;
   height: auto;
 
@@ -262,7 +262,7 @@
   align-items: center;
 }
 
-.cotegory_top span{
+.shop_cotegory_frame .cotegory_top span{
   font-family: "Jost";
   font-style: normal;
   font-weight: 500;
@@ -272,7 +272,7 @@
   color: #041e42;
 }
 
-.cotegory_top a{
+.shop_cotegory_frame .cotegory_top a{
   font-family: "Jost";
   font-style: normal;
   font-weight: 500;
@@ -283,7 +283,7 @@
   color: #041e42;
 }
 
-.cotegory_top a:hover{
+.shop_cotegory_frame .cotegory_top a:hover{
   border-bottom: 2px solid #041e42;
 }
 
@@ -297,7 +297,7 @@
   justify-content: space-between;
 }
 
-.cotegory_wrapper .cotegory_box{
+.shop_cotegory_frame .cotegory_wrapper .cotegory_box{
   width: 142px;
   height: auto;
 
@@ -305,7 +305,7 @@
   flex-direction: column;
 }
 
-.cotegory_box .cotegory_img_box{
+.shop_cotegory_frame .cotegory_box .cotegory_img_box{
   width: 100%;
   height: 150px;
 
@@ -317,7 +317,7 @@
   border-radius: 150px;
 }
 
-.cotegory_box span{
+.shop_cotegory_frame .cotegory_box span{
   margin-top: 15px;
   font-family: "Jost";
   font-style: normal;
